@@ -1,0 +1,1 @@
+This file is created to learn how you can delete a file using python.
